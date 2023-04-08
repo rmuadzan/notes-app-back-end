@@ -19,6 +19,7 @@
   },
   "dependencies": {
     "@hapi/hapi": "^20.2.2",
+    "joi": "^17.9.1",
     "nanoid": "^2.1.11"
   }
 }
